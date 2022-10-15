@@ -1,7 +1,5 @@
 # Emoji converter function
 # Use :-) or :-( after text or conversion to emoji
-message = input("Hi there, How are you doing? ")
-
 
 def user_message(message):
     words = message.split(' ')
@@ -16,4 +14,5 @@ def user_message(message):
     return output
 
 
+message = input("Hi there, How are you doing? ")
 print(user_message(message))

@@ -1,6 +1,6 @@
 #finding the largest number in a list
 
-numbers = [20,300,40,4,700,90,700,300]
+numbers = [200,40,4,700,90,300]
 max = numbers[0]
 for number in numbers:
     if number > max:

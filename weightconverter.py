@@ -1,4 +1,6 @@
-#Converts weight from KGs to Pounds and VV
+# Converts weight from KGs to Pounds and VV
+
+
 weight = input('Enter your weight: ')
 choice = input('Is your age in Pounds(l) or Kilograms(k)?: ')
 if choice.upper() == 'l':

@@ -14,7 +14,7 @@ point2 = Point(10,20)
 print(point2.x)
 
 
-# Exersice- Just For Laughs
+# Exercise - Just For Laughs
 class Person:
     def __init__(self, name):
         self.name = name

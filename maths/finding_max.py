@@ -20,8 +20,3 @@ def max_number():
         if number > max_num:
             max_num = number
     print(f'The Maximum number in your list is {max_num}')
-
-
-
-
-
